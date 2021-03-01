@@ -1,0 +1,11 @@
+﻿version: '3'
+
+services:
+  apienvironment:
+    image: api-environment
+    build:
+      context: .
+    environment:
+      - MENSAGEM=Teste via Docker Compose
+    ports:
+      - "20003:80"
