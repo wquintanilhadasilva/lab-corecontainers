@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gsdj2bYDkEi4Dn7o0tsbzWKLZHdRgBIp4UI0q00OWlQJ9AVSSSSnwHDVNAgP7MuIBdO29aTLlFDoqFWzubP6zw==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\git\\lab-corecontainers\\lab-corecontainers\\lab-corecontainers\\lab-corecontainers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wquin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
